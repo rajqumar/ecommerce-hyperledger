@@ -1,2 +1,2 @@
 # ecommerce-hyperledger
-Ecommerce Website on Hyperledger Blockchain
+Ecommerce Application on Hyperledger Blockchain
